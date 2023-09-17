@@ -1,0 +1,27 @@
+---
+id: 61011311
+name: Zenmailfunction
+type: Spell Card
+frameType: spell
+desc: Target 1 "Wind-Up" monster in your Graveyard; Special Summon it in face-up Defense
+  Position. Its effect(s) is negated, and it cannot be Tributed or used as a Synchro
+  Material Monster.
+race: Normal
+archetype: Wind-Up
+card_sets:
+- set_name: Photon Shockwave
+  set_code: PHSW-EN055
+  set_rarity: Common
+  set_rarity_code: "(C)"
+  set_price: '1.01'
+card_images:
+- id: 61011311
+  image_url: https://images.ygoprodeck.com/images/cards/61011311.jpg
+  image_url_small: https://images.ygoprodeck.com/images/cards_small/61011311.jpg
+  image_url_cropped: https://images.ygoprodeck.com/images/cards_cropped/61011311.jpg
+card_prices:
+- cardmarket_price: '0.06'
+  tcgplayer_price: '0.19'
+  ebay_price: '0.99'
+  amazon_price: '0.25'
+  coolstuffinc_price: '0.49'

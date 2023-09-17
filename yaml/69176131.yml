@@ -1,0 +1,24 @@
+---
+id: 69176131
+name: Space Cyclone
+type: Spell Card
+frameType: spell
+desc: Detach 1 Xyz Material from a monster.
+race: Quick-Play
+card_sets:
+- set_name: Photon Shockwave
+  set_code: PHSW-EN061
+  set_rarity: Common
+  set_rarity_code: "(C)"
+  set_price: '1.03'
+card_images:
+- id: 69176131
+  image_url: https://images.ygoprodeck.com/images/cards/69176131.jpg
+  image_url_small: https://images.ygoprodeck.com/images/cards_small/69176131.jpg
+  image_url_cropped: https://images.ygoprodeck.com/images/cards_cropped/69176131.jpg
+card_prices:
+- cardmarket_price: '0.04'
+  tcgplayer_price: '0.14'
+  ebay_price: '0.99'
+  amazon_price: '0.20'
+  coolstuffinc_price: '0.49'
